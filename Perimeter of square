@@ -1,0 +1,3 @@
+a=float(input("enter the side of square "))
+p=4*a
+print("primary of square ", p)
